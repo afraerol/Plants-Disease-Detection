@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginSQLLite</string>
+    <string name="disease_detection">Disease Detection</string>
+    <string name="my_plants">MyPlants</string>
+    <string name="homepage">HomePage</string>
+    <string name="viewpager_content_description">Pager for navigating between different tabs</string>
+
+</resources>
